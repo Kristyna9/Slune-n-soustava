@@ -1,1 +1,1 @@
-# Slune-n-soustava
+Slunecni soustava
